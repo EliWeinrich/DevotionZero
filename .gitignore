@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Devotion Zero local data
+decks.json
+
+# Generated MTGO exports
+exports/
