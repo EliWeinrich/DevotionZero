@@ -68,6 +68,17 @@ A graphical interface using Qt is planned for a future version.
 - `DeckListIO` - MTGO import/export
 - `DevotionZeroApp` - console application controller
 
+## Screenshots
+
+### Deck Import and Validation
+
+<img width="1101" height="706" alt="image" src="https://github.com/user-attachments/assets/e0a47c29-5125-43d9-a772-c8396a427ba2" />
+
+### Organized Deck View and Stats
+
+<img width="1103" height="1016" alt="image" src="https://github.com/user-attachments/assets/188baafd-c5fb-4f4c-a2c1-ef3f1a4b2352" />
+<img width="1094" height="1095" alt="image" src="https://github.com/user-attachments/assets/43a76aa7-260c-486f-80b6-92ba151ca585" />
+
 ## Roadmap
 
 - Qt graphical interface
