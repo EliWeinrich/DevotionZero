@@ -1,4 +1,5 @@
 # Devotion Zero
+**Current Release:** v1.0.0 — Console Version
 
 Devotion Zero is a C++ Magic: The Gathering deck-building, validation,
 and analytics application with Scryfall integration, format-aware rules,
